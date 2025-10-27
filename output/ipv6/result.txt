@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-25 18:25:07,https://www.freetv.top/migu/608807420.m3u8?migutoken=16a362b923a43fa0d4ce2aba3ecd88cd5e53be41dc5d15a9d1c9bad7fb665c1a2cee1355de7ca1df5ea56c38b88d68c7837724e9d16f358d73f49a202d62a71f7b2eb754beefe9b46eb9e8ab25$订阅源
+2025-10-27 18:30:50,https://www.freetv.top/migu/608807420.m3u8?migutoken=16a362b923a43fa0d4ce2aba3ecd88cd5e53be41dc5d15a9d1c9bad7fb665c1a2cee1355de7ca1df5ea56c38b88d68c7837724e9d16f358d73f49a202d62a71f7b2eb754beefe9b46eb9e8ab25$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=16a362b923a43fa0d4ce2aba3ecd88cd5e53be41dc5d15a9d1c9bad7fb665c1a2cee1355de7ca1df5ea56c38b88d68c7837724e9d16f358d73f49a202d62a71f7b2eb754beefe9b46eb9e8ab25$订阅源
@@ -165,7 +165,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=0a02f2e99ab57689f93
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
-广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi$订阅源
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=7837384e48fd26a97f31b5166b88580720ebc21f5e10f392561f571058dda831b33433f9113b41fa03dff482db5244ae83df7b277e82cf7a4651045d113b16c3733999e3c4428166e0995051a4$订阅源
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=61e4fd9bf58ef5793a154534fc3b69a6905900f2133acd6c3fe723e7b4520ad20ebd351ceb44d42a3a09fa5e7e402be1cec3e5c93b1a07ac90681ef873a367d7cb68040b3be9d7873347efa755$订阅源
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=b49395c0adad3f977a69d9555b7ec0e60a9f6076a9bd17687472774c39f5e60c68b55ab46fdf0d73b68a871b71b438163c9ae6604499693eb260ed04ebe98df3f12124410b199e0741f3429b11$订阅源
